@@ -1,2 +1,2 @@
-# ModuloTabela
+# Módulo Tabela
  Projeto de um módulo em Python para fácil manipulação de tabelas.
