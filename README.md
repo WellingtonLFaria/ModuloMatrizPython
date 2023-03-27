@@ -1,2 +1,2 @@
-# Módulo Tabela
- Projeto de um módulo em Python para fácil manipulação de tabelas.
+# Módulo Matriz
+ Projeto de um módulo em Python para fácil manipulação de matrizes.
